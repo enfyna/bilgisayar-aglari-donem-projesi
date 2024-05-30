@@ -1,6 +1,6 @@
 #!/bin/bash
 
-script="scratch/network-simulation"
+script="scratch/main"
 
 run_experiment() {
   nDevices=$1
